@@ -26,7 +26,7 @@ What does this mean? Let's show some pics:
 
 `Sample.plist` has the following `NVRAM` structure:
 
-![nvram-add](/.assets/images/before/nvram.png)
+![nvram_add](/.assets/images/before/legacy_nvram.png)
 
 As you can see there are some NVRAM GUIDs:
 
